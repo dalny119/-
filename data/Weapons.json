@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"animationId":6,"description":"普通的清理器,能清扫垃圾","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"低级清理器","note":"","params":[0,0,10,0,0,0,0,0],"price":100,"wtypeId":2},
+{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"一般清理器","note":"","params":[0,0,15,0,0,0,0,0],"price":250,"wtypeId":4},
+{"id":3,"animationId":1,"description":"特殊类武器 ","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"低级吸尘器","note":"","params":[0,0,5,0,10,0,0,0],"price":500,"wtypeId":6},
+{"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"低级辅助用清理器","note":"","params":[0,0,5,0,0,0,10,0],"price":500,"wtypeId":7}
+]
